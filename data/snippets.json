@@ -1,0 +1,416 @@
+[
+  {
+    "id": "kd-2026-07-09-experience",
+    "exchange": [
+      {
+        "speaker": "D",
+        "text": "Experience is how you feel in the moment. It has nothing to do with memory. It has nothing to do with the future. It is what it is like to be there — not how you could articulate it to your friends."
+      },
+      {
+        "speaker": "K",
+        "text": "Like when Valerie was reading. It was so impactful, and I couldn't tell you a single line that she said."
+      },
+      {
+        "speaker": "D",
+        "text": "In Urdu there's a word for it. The substance of your body, if you imagine it like a sponge — when something is deep in there, it has infused itself into your body. That's what an experience is."
+      }
+    ],
+    "theme": "On experience",
+    "date": "2026-07-09",
+    "source_call": "Kahran / Divya",
+    "status": "approved",
+    "sensitivity_notes": ""
+  },
+  {
+    "id": "kd-2026-07-09-possibility",
+    "exchange": [
+      {
+        "speaker": "K",
+        "text": "I did this thing I find fun — talking to Claude — and used it to get through something I was finding incredibly hard."
+      },
+      {
+        "speaker": "D",
+        "text": "The magic happened before you ever started talking to Claude. You saw a problem and thought — it's solvable. That's what possibility is. The how is incidental."
+      }
+    ],
+    "theme": "On possibility",
+    "date": "2026-07-09",
+    "source_call": "Kahran / Divya",
+    "status": "approved",
+    "sensitivity_notes": ""
+  },
+  {
+    "id": "kd-2026-07-09-negotiation",
+    "exchange": [
+      {
+        "speaker": "D",
+        "text": "The money I make has nothing to do with my value, and everything to do with my negotiation."
+      },
+      {
+        "speaker": "D",
+        "text": "Negotiation is all about what the other party thinks your plan B is."
+      },
+      {
+        "speaker": "K",
+        "text": "I love that."
+      }
+    ],
+    "theme": "On worth",
+    "date": "2026-07-09",
+    "source_call": "Kahran / Divya",
+    "status": "approved",
+    "sensitivity_notes": ""
+  },
+  {
+    "id": "kd-2026-07-09-gravity",
+    "exchange": [
+      {
+        "speaker": "D",
+        "text": "You don't decenter structures of power by saying push off, or by attaching yourself to them. You decenter them by creating other centers of gravity."
+      },
+      {
+        "speaker": "D",
+        "text": "The hard question isn't why is there no space for me. It's: can I find ways of constructing new gravitational centers?"
+      }
+    ],
+    "theme": "On power",
+    "date": "2026-07-09",
+    "source_call": "Kahran / Divya",
+    "status": "approved",
+    "sensitivity_notes": ""
+  },
+  {
+    "id": "kd-2026-07-09-anchoring",
+    "exchange": [
+      {
+        "speaker": "K",
+        "text": "My sense of these things just anchors to whatever makes me feel better."
+      },
+      {
+        "speaker": "D",
+        "text": "Don't anchor on a number. Think about a process."
+      }
+    ],
+    "theme": "On anchoring",
+    "date": "2026-07-09",
+    "source_call": "Kahran / Divya",
+    "status": "approved",
+    "sensitivity_notes": ""
+  },
+  {
+    "id": "kd-2026-07-09-resigned",
+    "exchange": [
+      {
+        "speaker": "D",
+        "text": "It's very easy, as people get older, to become resigned."
+      },
+      {
+        "speaker": "D",
+        "text": "That's the thing I like about you — you are never resigned. You'll figure out a way. And you won't let the world make you bitter."
+      }
+    ],
+    "theme": "On not being resigned",
+    "date": "2026-07-09",
+    "source_call": "Kahran / Divya",
+    "status": "approved",
+    "sensitivity_notes": ""
+  },
+  {
+    "id": "kd-2026-07-09-fuller-life",
+    "exchange": [
+      {
+        "speaker": "D",
+        "text": "Optimization is one-dimensional."
+      },
+      {
+        "speaker": "D",
+        "text": "This is about actually living a fuller life. A more expansive life."
+      }
+    ],
+    "theme": "On a fuller life",
+    "date": "2026-07-09",
+    "source_call": "Kahran / Divya",
+    "status": "approved",
+    "sensitivity_notes": ""
+  },
+  {
+    "id": "kd-2025-04-24-violent",
+    "exchange": [
+      {
+        "speaker": "D",
+        "text": "I am so glad I feel equally violent about my own work as I do about other people's."
+      }
+    ],
+    "theme": "On taste",
+    "date": "2025-04-24",
+    "source_call": "Kahran / Divya",
+    "status": "approved",
+    "sensitivity_notes": ""
+  },
+  {
+    "id": "kd-2025-05-20-sacred",
+    "exchange": [
+      {
+        "speaker": "K",
+        "text": "Do you feel spaces can be made sacred?"
+      },
+      {
+        "speaker": "D",
+        "text": "Sacred — I don't know. It's stories that people tell themselves."
+      },
+      {
+        "speaker": "D",
+        "text": "I don't feel reverence. I feel wonder, and I feel curiosity."
+      },
+      {
+        "speaker": "K",
+        "text": "I think it's people's behavior that makes something feel sacred or not."
+      }
+    ],
+    "theme": "On sacredness",
+    "date": "2025-05-20",
+    "source_call": "Kahran / Divya",
+    "status": "approved",
+    "sensitivity_notes": ""
+  },
+  {
+    "id": "kd-2025-05-20-courage",
+    "exchange": [
+      {
+        "speaker": "D",
+        "text": "It requires courage to say it's okay for people to not like me. Because there are going to be some people who will like me."
+      },
+      {
+        "speaker": "K",
+        "text": "If you say it, it's like saying: I want these people to like me."
+      },
+      {
+        "speaker": "D",
+        "text": "Oh damn. That is scary."
+      },
+      {
+        "speaker": "D",
+        "text": "Problems of courage are not problems of reasons to leap. They are problems of not leaping."
+      }
+    ],
+    "theme": "On courage",
+    "date": "2025-05-20",
+    "source_call": "Kahran / Divya",
+    "status": "approved",
+    "sensitivity_notes": ""
+  },
+  {
+    "id": "kd-2025-05-20-projection",
+    "exchange": [
+      {
+        "speaker": "D",
+        "text": "Most storytelling requires you to create a projection of the multifaceted gem that the person or the thing is, and project it on a 2D. Here is one projection, and here is another projection. But what if one did not want to compress that?"
+      },
+      {
+        "speaker": "K",
+        "text": "What you're trying to say to me, which I'm pushing back on, is that you're trying to find a story that unifies them. And I'm saying — I think it's time for multiple stories."
+      }
+    ],
+    "theme": "On telling your story",
+    "date": "2025-05-20",
+    "source_call": "Kahran / Divya",
+    "status": "approved",
+    "sensitivity_notes": ""
+  },
+  {
+    "id": "kd-2025-07-17-ceiling",
+    "exchange": [
+      {
+        "speaker": "D",
+        "text": "Us working together is a ceiling condition, not a floor condition. I wouldn't take on something where the floor is collapsible. But I would ideally like for us to get to the ceiling."
+      },
+      {
+        "speaker": "D",
+        "text": "I would like for our collaboration to realize its potential. I know that we can do great work together."
+      }
+    ],
+    "theme": "On working together",
+    "date": "2025-07-17",
+    "source_call": "Kahran / Divya",
+    "status": "approved",
+    "sensitivity_notes": ""
+  },
+  {
+    "id": "kd-2025-07-17-two-years",
+    "exchange": [
+      {
+        "speaker": "K",
+        "text": "I know you may say this undersells the value that I bring, but one of the values that I have brought a lot in the projects I have done is making it easier for the people who are more able to do the work to do the work."
+      },
+      {
+        "speaker": "D",
+        "text": "There is a reason. Normally, when I would burn out in nine months — with you, I can do two years."
+      }
+    ],
+    "theme": "On what we give each other",
+    "date": "2025-07-17",
+    "source_call": "Kahran / Divya",
+    "status": "approved",
+    "sensitivity_notes": ""
+  },
+  {
+    "id": "kd-2026-02-13-how-to-work",
+    "exchange": [
+      {
+        "speaker": "K",
+        "text": "At this point in people's lives, it's very fair to assume that they may know how to do work, but they don't know how to work."
+      },
+      {
+        "speaker": "K",
+        "text": "A good model when you don't have a ton of expertise is to build a checklist — until you're at a point you don't need the checklist."
+      }
+    ],
+    "theme": "On learning to work",
+    "date": "2026-02-13",
+    "source_call": "Kahran / Divya",
+    "status": "approved",
+    "sensitivity_notes": ""
+  },
+  {
+    "id": "kd-2026-02-13-excited",
+    "exchange": [
+      {
+        "speaker": "K",
+        "text": "I'm excited. I'm happy with our lives."
+      },
+      {
+        "speaker": "D",
+        "text": "You can feel anticipatory anxiety also. It's okay. I can be excited for both of us."
+      }
+    ],
+    "theme": "On carrying each other",
+    "date": "2026-02-13",
+    "source_call": "Kahran / Divya",
+    "status": "approved",
+    "sensitivity_notes": ""
+  },
+  {
+    "id": "kd-2026-04-07-mark",
+    "exchange": [
+      {
+        "speaker": "D",
+        "text": "It's like — okay, here is a tiny artifact of what you have created."
+      },
+      {
+        "speaker": "K",
+        "text": "Is it because it's a breadcrumb?"
+      },
+      {
+        "speaker": "D",
+        "text": "The mark you have left on the world, maybe. There's something fun about the mark you have made on the world in a tiny, playful way."
+      }
+    ],
+    "theme": "On making a mark",
+    "date": "2026-04-07",
+    "source_call": "Kahran / Divya",
+    "status": "approved",
+    "sensitivity_notes": ""
+  },
+  {
+    "id": "kd-2026-05-28-v1",
+    "exchange": [
+      {
+        "speaker": "D",
+        "text": "All you are trying to do is a V1 of an event, in a format that you would love. It doesn't have to be the best thing that people have ever experienced. Don't set those standards for yourself — you'll be setting yourself up for failure, the participants for failure, and the event for failure."
+      },
+      {
+        "speaker": "K",
+        "text": "A format I would love. That feels like it's not insurmountable — and it feels kind of fun to figure out."
+      }
+    ],
+    "theme": "On standards",
+    "date": "2026-05-28",
+    "source_call": "Kahran / Divya",
+    "status": "approved",
+    "sensitivity_notes": ""
+  },
+  {
+    "id": "kd-2026-05-28-selling",
+    "exchange": [
+      {
+        "speaker": "D",
+        "text": "I really need to figure out how to sell this thing that you can do — that I have always just used as an instrument."
+      },
+      {
+        "speaker": "D",
+        "text": "My muscle of non-tangible selling is a little weak. I could have just valued the softer things, and then I would have developed that skill. But now I don't need to, because you have that skill. Only one of us needs to know how to do that."
+      }
+    ],
+    "theme": "On selling",
+    "date": "2026-05-28",
+    "source_call": "Kahran / Divya",
+    "status": "approved",
+    "sensitivity_notes": ""
+  },
+  {
+    "id": "kd-2026-07-06-availability",
+    "exchange": [
+      {
+        "speaker": "D",
+        "text": "You end up showing up with your availability. But I don't think your availability is the cheapest thing for you. I think it's the most expensive."
+      },
+      {
+        "speaker": "D",
+        "text": "We do things for people we love even when those things are expensive, because those people matter. My mom will make very complex food for me — not because the food becomes less complex for her, but because she just loves to make me happy. It's not to say that she shouldn't make that complex food. Just thinking about: what is the easy food that is available to her?"
+      }
+    ],
+    "theme": "On availability",
+    "date": "2026-07-06",
+    "source_call": "Kahran / Divya",
+    "status": "approved",
+    "sensitivity_notes": ""
+  },
+  {
+    "id": "kd-2026-07-06-expense",
+    "exchange": [
+      {
+        "speaker": "D",
+        "text": "Expense is not painfulness."
+      },
+      {
+        "speaker": "K",
+        "text": "Then what is expense?"
+      },
+      {
+        "speaker": "D",
+        "text": "If you're spending willpower, psychological, cognitive, or creativity resources on anything, then it's expensive. You need an n-factorial model of expense. That's why you don't let yourself feel tired after you hang out with your family. Because of course you love them — so how dare it be expensive? But of course, it's also very socially exhausting."
+      },
+      {
+        "speaker": "K",
+        "text": "I guess there's a lot of things I didn't really think about as being expensive."
+      }
+    ],
+    "theme": "On what things cost",
+    "date": "2026-07-06",
+    "source_call": "Kahran / Divya",
+    "status": "approved",
+    "sensitivity_notes": ""
+  },
+  {
+    "id": "kd-2026-07-06-interference",
+    "exchange": [
+      {
+        "speaker": "K",
+        "text": "What do you think stops us from doing that level of quality on our internal projects?"
+      },
+      {
+        "speaker": "D",
+        "text": "I suspect that we don't hold the bar for ourselves enough."
+      },
+      {
+        "speaker": "D",
+        "text": "We are individually excellent at it. Together, we have come together — destructive interference. We have one brain cell working on this thing."
+      }
+    ],
+    "theme": "On holding the bar",
+    "date": "2026-07-06",
+    "source_call": "Kahran / Divya",
+    "status": "approved",
+    "sensitivity_notes": ""
+  }
+]

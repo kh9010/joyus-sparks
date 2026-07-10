@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Joyus — thinking out loud</title>
+  <meta name="description" content="Snippets from the conversations of a two-person studio. Two voices, thinking out loud." />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=Spline+Sans+Mono:wght@400;500&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <!-- Manual theme choice applied before paint to avoid a flash -->
+  <script>
+    (function () {
+      try {
+        var t = localStorage.getItem('joyus-theme');
+        if (t === 'light' || t === 'dark') {
+          document.documentElement.setAttribute('data-theme', t);
+        }
+      } catch (e) {}
+    })();
+  </script>
+
+  <a class="skip-link" href="#feed">Skip to the feed</a>
+
+  <header class="masthead">
+    <div class="masthead__bar">
+      <p class="masthead__kicker">A studio, overheard</p>
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-pressed="false">
+        <span class="theme-toggle__label">Theme</span>
+        <span class="theme-toggle__state" aria-hidden="true"></span>
+      </button>
+    </div>
+
+    <h1 class="masthead__title">Joyus</h1>
+    <p class="masthead__standfirst">
+      Fragments lifted from our conversations — two voices thinking out loud,
+      at the edge of reality and intent.
+    </p>
+
+    <dl class="voice-key" aria-label="Who's who">
+      <div class="voice-key__item" data-speaker="K">
+        <dt class="voice-key__glyph">K</dt><dd>Kahran</dd>
+      </div>
+      <div class="voice-key__item" data-speaker="D">
+        <dt class="voice-key__glyph">D</dt><dd>Divya</dd>
+      </div>
+    </dl>
+  </header>
+
+  <main>
+    <ol id="feed" class="feed" aria-live="polite" aria-busy="true">
+      <!-- Cards rendered by app.js from ./data/snippets.json -->
+    </ol>
+    <p id="feed-status" class="feed-status" role="status">Gathering the thread…</p>
+  </main>
+
+  <footer class="site-footer">
+    <p class="site-footer__mark">Joyus</p>
+    <p class="site-footer__note">Approved fragments only. Trimmed of filler, never paraphrased.</p>
+  </footer>
+
+  <!-- Template cloned per snippet -->
+  <template id="card-template">
+    <li class="card">
+      <div class="card__meta">
+        <span class="card__theme"></span>
+        <time class="card__date"></time>
+      </div>
+      <div class="card__exchange"></div>
+    </li>
+  </template>
+
+  <script src="./app.js"></script>
+</body>
+</html>
