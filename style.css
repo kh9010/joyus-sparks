@@ -12,7 +12,7 @@
   --edge:       #cdd0c7;   /* hairline rules */
   --ink:        #1d2129;   /* blue-black, the reading ink */
   --ink-soft:   #565c63;   /* meta text, standfirst */
-  --ink-faint:  #878d8a;   /* datelines, quiet apparatus */
+  --ink-faint:  #6a706c;   /* datelines, quiet apparatus (WCAG-AA on paper) */
 
   /* Two temperaments. Warm K / cool D — subtle, carried on the initials. */
   --voice-k:    #9a6a1f;   /* Kahran — burnt marigold (warm) */
@@ -39,6 +39,17 @@
   color-scheme: light;
 }
 
+/* Visually-hidden but read by screen readers (speaker attribution). */
+.sr-only {
+  position: absolute;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 /* ---- Design tokens: DARK ------------------------------------------------ */
 /* Applied both by system preference (unless the user forced light) and by
    the manual toggle stamping [data-theme="dark"] on :root. */
@@ -49,7 +60,7 @@
     --edge:       #2c313c;
     --ink:        #e9e6dd;
     --ink-soft:   #a9b0b2;
-    --ink-faint:  #767d80;
+    --ink-faint:  #838a8d;
     --voice-k:    #d9ac57;
     --voice-d:    #74b3a6;
     --focus:      #74b3a6;
@@ -63,7 +74,7 @@
   --edge:       #2c313c;
   --ink:        #e9e6dd;
   --ink-soft:   #a9b0b2;
-  --ink-faint:  #767d80;
+  --ink-faint:  #838a8d;
   --voice-k:    #d9ac57;
   --voice-d:    #74b3a6;
   --focus:      #74b3a6;

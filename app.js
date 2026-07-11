@@ -84,9 +84,14 @@
 
       var p = document.createElement("p");
       p.className = "turn__text";
-      // Screen-reader clarity: name the speaker without cluttering the visual.
-      p.setAttribute("aria-label", (SPEAKERS[speaker] || speaker) + " said");
-      p.textContent = (turn && turn.text) || "";
+      // Name the speaker as visually-hidden text so screen readers announce
+      // "Kahran said." AND then the snippet. (An aria-label would REPLACE the
+      // snippet text entirely — making the whole feed unreadable to AT.)
+      var sr = document.createElement("span");
+      sr.className = "sr-only";
+      sr.textContent = (SPEAKERS[speaker] || speaker) + " said. ";
+      p.appendChild(sr);
+      p.appendChild(document.createTextNode((turn && turn.text) || ""));
 
       row.appendChild(glyph);
       row.appendChild(p);
